@@ -19,7 +19,11 @@ body{
 
   }
 
-  /* All Paragraph content are Design here*/
+.row{
+      margin:auto;
+ }
+
+/* All Paragraph content are Design here*/
   h1 {
 
     color:blue;
@@ -157,9 +161,6 @@ p{
     padding-right:6px;
     display:inline-block;
   }
-.edu{
-      margin:auto;
- }
 .eduDiv div{
   align-self: baseline;
   margin-right: 25px;
