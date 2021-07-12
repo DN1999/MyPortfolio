@@ -163,7 +163,8 @@ p{
 .eduDiv div{
   align-self: baseline;
   margin-right: 25px;
-display: inline-block;
+  display: inline-block;
+  margin:auto;
 }
   
   .eduDiv li{
